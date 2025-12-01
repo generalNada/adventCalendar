@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Advent 2025</title>
+    <link rel="stylesheet" href="advent.css" />
+  </head>
+  <body>
+    <!-- Falling Snow Container -->
+    <div class="snow-container">
+      <!-- Snowflakes will be dynamically created by JavaScript -->
+    </div>
+
+    <!-- Test Mode Toggle -->
+    <button
+      id="test-mode-toggle"
+      class="test-mode-toggle"
+      title="Toggle test mode (unlock all dates)"
+      aria-label="Toggle test mode"
+    >
+      ☃️
+    </button>
+
+    <div class="container">
+      <header>
+        <h1 id="reset-heading" title="Click to reset the calendar" tabindex="0">
+          🎄 Le Advent Calendar de Franky 2025 🎄
+        </h1>
+        <p class="subtitle">
+          ✨ Click on each day to reveal a surprise! 🎁 🎅 ⭐
+        </p>
+      </header>
+
+      <div class="tree-container">
+        <div class="tree-decoration tree-left">🎁</div>
+        <div class="tree-decoration tree-left-2">⭐</div>
+        <div class="tree-decoration tree-left-3">🎄</div>
+        <div class="tree">
+          <!-- Days will be dynamically inserted here -->
+        </div>
+        <div class="tree-decoration tree-right">🎁</div>
+        <div class="tree-decoration tree-right-2">⭐</div>
+        <div class="tree-decoration tree-right-3">🎄</div>
+      </div>
+    </div>
+
+    <!-- Modal for displaying revealed content -->
+    <div id="modal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <div class="music-selector">
+          <button
+            id="music-btn-left"
+            class="music-select-btn"
+            title="Play Kansas City"
+            aria-label="Play Kansas City"
+          >
+            🎶
+          </button>
+          <button
+            id="music-btn-right"
+            class="music-select-btn"
+            title="Play Sugar Sugar"
+            aria-label="Play Sugar Sugar"
+          >
+            🎵
+          </button>
+        </div>
+        <div class="modal-body">
+          <div class="modal-emoji">🎁</div>
+          <img id="modal-image" src="" alt="Advent surprise" />
+          <p id="modal-description"></p>
+          <audio id="modal-audio" controls style="display: none">
+            <source src="" type="audio/mpeg" />
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      </div>
+    </div>
+
+    <script src="advent.js"></script>
+  </body>
+</html>

@@ -1,0 +1,118 @@
+{
+  "12-01": {
+    "image": "adventImage_1.jpg",
+    "audio": "adCar_1.mp3",
+    "description": "Welcome to the Advent Calendar! 🎄"
+  },
+  "12-02": {
+    "image": "adventImage_2.jpg",
+    "audio": "adCar_2.mp3",
+    "description": "Day 2 surprise!"
+  },
+  "12-03": {
+    "image": "adventImage_3.jpg",
+    "audio": "adCar_3.mp3",
+    "description": "Day 3 surprise!"
+  },
+  "12-04": {
+    "image": "adventImage_4.jpg",
+    "audio": "adCar_4.mp3",
+    "description": "Day 4 surprise!"
+  },
+  "12-05": {
+    "image": "adventImage_5.jpg",
+    "audio": "adCar_5.mp3",
+    "description": "Day 5 surprise!"
+  },
+  "12-06": {
+    "image": "adventImage_6.jpg",
+    "audio": "adCar_6.mp3",
+    "description": "Day 6 surprise!"
+  },
+  "12-07": {
+    "image": "day7.jpg",
+    "description": "Day 7 surprise!"
+  },
+  "12-08": {
+    "image": "day8.jpg",
+    "audio": "day8.mp3",
+    "description": "Day 8 surprise!"
+  },
+  "12-09": {
+    "image": "day9.jpg",
+    "description": "Day 9 surprise!"
+  },
+  "12-10": {
+    "image": "day10.jpg",
+    "audio": "day10.mp3",
+    "description": "Day 10 surprise!"
+  },
+  "12-11": {
+    "image": "day11.jpg",
+    "description": "Day 11 surprise!"
+  },
+  "12-12": {
+    "image": "day12.jpg",
+    "audio": "day12.mp3",
+    "description": "Day 12 surprise!"
+  },
+  "12-13": {
+    "image": "day13.jpg",
+    "description": "Day 13 surprise!"
+  },
+  "12-14": {
+    "image": "day14.jpg",
+    "audio": "day14.mp3",
+    "description": "Day 14 surprise!"
+  },
+  "12-15": {
+    "image": "day15.jpg",
+    "description": "Day 15 surprise!"
+  },
+  "12-16": {
+    "image": "day16.jpg",
+    "audio": "day16.mp3",
+    "description": "Day 16 surprise!"
+  },
+  "12-17": {
+    "image": "day17.jpg",
+    "description": "Day 17 surprise!"
+  },
+  "12-18": {
+    "image": "day18.jpg",
+    "audio": "day18.mp3",
+    "description": "Day 18 surprise!"
+  },
+  "12-19": {
+    "image": "day19.jpg",
+    "description": "Day 19 surprise!"
+  },
+  "12-20": {
+    "image": "day20.jpg",
+    "audio": "day20.mp3",
+    "description": "Day 20 surprise!"
+  },
+  "12-21": {
+    "image": "day21.jpg",
+    "description": "Day 21 surprise!"
+  },
+  "12-22": {
+    "image": "day22.jpg",
+    "audio": "day22.mp3",
+    "description": "Day 22 surprise!"
+  },
+  "12-23": {
+    "image": "day23.jpg",
+    "description": "Day 23 surprise!"
+  },
+  "12-24": {
+    "image": "day24.jpg",
+    "audio": "day24.mp3",
+    "description": "Christmas Eve! 🎅"
+  },
+  "12-25": {
+    "image": "day25.jpg",
+    "audio": "day25.mp3",
+    "description": "Merry Christmas! 🎄🎁"
+  }
+}
