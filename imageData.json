@@ -30,12 +30,13 @@
     "description": "Day 6 surprise!"
   },
   "12-07": {
-    "image": "day7.jpg",
+    "image": "adventImage_7.jpg",
+    "audio": "adCar_7.mp3",
     "description": "Day 7 surprise!"
   },
   "12-08": {
-    "image": "day8.jpg",
-    "audio": "day8.mp3",
+    "image": "adventImage_8.jpg",
+    "audio": "adCar_8.mp3",
     "description": "Day 8 surprise!"
   },
   "12-09": {
