@@ -60,21 +60,23 @@
     "description": "Day 12 surprise!"
   },
   "12-13": {
-    "image": "day13.jpg",
-    "description": "Day 13 surprise!"
+    "image": "adventImage_13.jpg",
+    "audio": "adCar_13.mp3",
+    "description": "Day 12 surprise!"
   },
   "12-14": {
-    "image": "day14.jpg",
-    "audio": "day14.mp3",
+    "image": "adventImage_14.jpg",
+    "audio": "adCar_14.mp3",
     "description": "Day 14 surprise!"
   },
   "12-15": {
-    "image": "day15.jpg",
+      "image": "adventImage_15.jpg",
+    "audio": "adCar_15.mp3",
     "description": "Day 15 surprise!"
   },
   "12-16": {
-    "image": "day16.jpg",
-    "audio": "day16.mp3",
+    "image": "adventImage_16.jpg",
+    "audio": "adCar_16.mp3",
     "description": "Day 16 surprise!"
   },
   "12-17": {
