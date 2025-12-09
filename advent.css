@@ -519,12 +519,26 @@ h1:focus-visible {
 }
 
 #modal-description {
-  display: none; /* Hide description in fullscreen mode */
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90%;
+  max-width: 500px;
+  z-index: 1002; /* Above snowflakes */
+  font-family: 'Brush Script MT', 'Lucida Handwriting', 'Comic Sans MS', cursive;
+  font-size: 1.2rem;
+  color: #fff;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8), 0 0 10px rgba(255, 255, 255, 0.3);
+  padding: 8px 12px;
+  background: transparent; /* No background block */
+  pointer-events: none; /* Allow clicks to pass through */
 }
 
 #modal-audio {
   position: absolute;
-  bottom: 30px;
+  bottom: 80px; /* Increased from 30px to make room for description below */
   left: 50%;
   transform: translateX(-50%);
   width: 90%;
@@ -641,9 +655,15 @@ h1:focus-visible {
   }
 
   #modal-audio {
-    bottom: 15px;
+    bottom: 70px; /* Adjust for mobile to make room for description */
     width: 95%;
     padding: 8px;
+  }
+
+  #modal-description {
+    font-size: 1rem;
+    bottom: 5px;
+    width: 95%;
   }
 
   .tree-decoration {

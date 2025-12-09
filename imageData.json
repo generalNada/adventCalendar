@@ -2,103 +2,106 @@
   "12-01": {
     "image": "adventImage_1.jpg",
     "audio": "adCar_1.mp3",
-    "description": "Welcome to the Advent Calendar! 🎄"
+    "description": "Welcome to the Advent Calendar! 🎄 Oh Come All Ye Faithful!"
   },
   "12-02": {
     "image": "adventImage_2.jpg",
     "audio": "adCar_2.mp3",
-    "description": "Day 2 surprise!"
+    "description": "Little Child Of Bethlehem!"
   },
   "12-03": {
     "image": "adventImage_3.jpg",
     "audio": "adCar_3.mp3",
-    "description": "Day 3 surprise!"
+    "description": "Oh Holy Night!"
   },
   "12-04": {
     "image": "adventImage_4.jpg",
     "audio": "adCar_4.mp3",
-    "description": "Day 4 surprise!"
+    "description": "Ding Dong Merrily on High!"
   },
   "12-05": {
     "image": "adventImage_5.jpg",
     "audio": "adCar_5.mp3",
-    "description": "Day 5 surprise!"
+    "description": "Rockin' Around The Christmas Tree! - Brenda Lee"
   },
   "12-06": {
     "image": "adventImage_6.jpg",
     "audio": "adCar_6.mp3",
-    "description": "Day 6 surprise!"
+    "description": "Silent Night!"
   },
   "12-07": {
     "image": "adventImage_7.jpg",
     "audio": "adCar_7.mp3",
-    "description": "Day 7 surprise!"
+    "description": "Moonlight Sonata! - Ludwïg van Beethoven"
   },
   "12-08": {
     "image": "adventImage_8.jpg",
     "audio": "adCar_8.mp3",
-    "description": "Day 8 surprise!"
+    "description": "Fur Elise! - Ludwïg van Beethoven"
   },
   "12-09": {
     "image": "adventImage_9.jpg",
     "audio": "adCar_9.mp3",
-    "description": "Day 9 surprise!"
+    "description": "All I Want For X-Mas Is You! - Mariah Carey"
   },
   "12-10": {
     "image": "adventImage_10.jpg",
     "audio": "adCar_10.mp3",
-    "description": "Day 10 surprise!"
+    "description": "Have A Holly Jolly Christmas! - Burl Ives"
   },
   "12-11": {
     "image": "adventImage_11.jpg",
     "audio": "adCar_11.mp3",
-    "description": "Day 11 surprise!"
+    "description": "Frosty The Snowman! - Gene Autry"
   },
   "12-12": {
     "image": "adventImage_12.jpg",
     "audio": "adCar_12.mp3",
-    "description": "Day 12 surprise!"
+    "description": "Blue X-Mas! - Elvis Presley"
   },
   "12-13": {
     "image": "adventImage_13.jpg",
     "audio": "adCar_13.mp3",
-    "description": "Day 12 surprise!"
+    "description": "Here Comes Santa Claus!"
   },
   "12-14": {
     "image": "adventImage_14.jpg",
     "audio": "adCar_14.mp3",
-    "description": "Day 14 surprise!"
+    "description": "Fairytale Of NY! - The Pogues"
   },
   "12-15": {
       "image": "adventImage_15.jpg",
     "audio": "adCar_15.mp3",
-    "description": "Day 15 surprise!"
+    "description": "Christmas Time! - Bryan Adams"
   },
   "12-16": {
     "image": "adventImage_16.jpg",
     "audio": "adCar_16.mp3",
-    "description": "Day 16 surprise!"
+    "description": "Last Christmas! - Wham!"
   },
   "12-17": {
-    "image": "day17.jpg",
-    "description": "Day 17 surprise!"
+    "image": "adventImage_17.jpg",
+    "audio": "adCar_17.mp3",
+    "description": "War Is Over! - John Lennon"
   },
   "12-18": {
-    "image": "day18.jpg",
-    "audio": "day18.mp3",
-    "description": "Day 18 surprise!"
+    "image": "adventImage_18.jpg",
+    "audio": "adCar_18.mp3",
+    "description": "Walking In A Winter Wonderland! - Elvis Presley"
   },
   "12-19": {
-    "image": "day19.jpg",
-    "description": "Day 19 surprise!"
+    "image": "adventImage_19.jpg",
+    "audio": "adCar_19.mp3",
+    "description": "Santa Claus Is Coming To Town! - Bruce Springsteen"
   },
   "12-20": {
-    "image": "day20.jpg",
-    "audio": "day20.mp3",
-    "description": "Day 20 surprise!"
+    "image": "adventImage_20.jpg",
+    "audio": "adCar_20.mp3",
+    "description": "O Little Town of Bethlehem! -  Cedarmont Kids"
   },
   "12-21": {
     "image": "day21.jpg",
+    "audio": "adCar_16.mp3",
     "description": "Day 21 surprise!"
   },
   "12-22": {
@@ -108,6 +111,7 @@
   },
   "12-23": {
     "image": "day23.jpg",
+    "audio": "adCar_16.mp3",
     "description": "Day 23 surprise!"
   },
   "12-24": {
