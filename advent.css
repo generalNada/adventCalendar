@@ -274,6 +274,7 @@ h1:focus-visible {
   position: relative;
   overflow: hidden;
   animation: borderPulse 4s ease-in-out infinite;
+  opacity: .5;
 }
 
 .day-card::before {
