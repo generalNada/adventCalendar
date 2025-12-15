@@ -105,23 +105,23 @@
     "description": "Jingle Bell Rock! - Bobby Helms"
   },
   "12-22": {
-    "image": "day22.jpg",
-    "audio": "day22.mp3",
-    "description": "Day 22 surprise!"
+    "image": "adventImage_22.jpg",
+    "audio": "adCar_22.mp3",
+    "description": "Angels We Have Heard On High! - A Nice Choir"
   },
   "12-23": {
-    "image": "day23.jpg",
-    "audio": "adCar_16.mp3",
-    "description": "Day 23 surprise!"
+    "image": "adventImage_23.jpg",
+    "audio": "adCar_23.mp3",
+    "description": "Let It Snow! - Love To Sing"
   },
   "12-24": {
-    "image": "day24.jpg",
-    "audio": "day24.mp3",
-    "description": "Christmas Eve! 🎅"
+    "image": "adventImage_24.jpg",
+    "audio": "adCar_24.mp3",
+    "description": "Jingle Bells!! - Simple Children - Christmas Eve! 🎅"
   },
   "12-25": {
-    "image": "day25.jpg",
-    "audio": "day25.mp3",
-    "description": "Merry Christmas! 🎄🎁"
+    "image": "adventImage_25.jpg",
+    "audio": "adCar_25.mp3",
+    "description": "Rudolph The Red-Nosed Reindeer!! Gene Autry -- Merry Christmas! 🎄🎁"
   }
 }

@@ -526,7 +526,8 @@ h1:focus-visible {
   width: 90%;
   max-width: 500px;
   z-index: 1002; /* Above snowflakes */
-  font-family: 'Brush Script MT', 'Lucida Handwriting', 'Comic Sans MS', cursive;
+  font-family: "Acme", sans-serif;
+  /* font-family: 'Brush Script MT', 'Lucida Handwriting', 'Comic Sans MS', cursive; */
   font-size: 1.2rem;
   color: #fff;
   text-align: center;
